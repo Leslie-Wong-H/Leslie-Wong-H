@@ -4,7 +4,7 @@
 
 # Leslie Wong
 
-> An incubating professional frontend engineer with AI techniques. Proclivity for Python, JavaScript and Opensource.
+> An incubating professional frontend engineer with AI techniques. Proclivity for JavaScript, Python and Opensource.
 
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![](https://img.shields.io/badge/-CSS3-339933?style=flat-square&logo=CSS3&labelColor=339933)
