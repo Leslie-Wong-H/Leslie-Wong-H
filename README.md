@@ -14,7 +14,7 @@
 
 ---
 
-Experienced with Python data analysis, and having developed several applications using Python and JavaScript, covering website, chrome extension and wechat mini program.
+Experienced with Python data analysis, and having developed several applications using JavaScript and Python, covering website, chrome extension and wechat mini program.
 
 ---
 
