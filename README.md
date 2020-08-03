@@ -22,7 +22,7 @@ Experienced with Python data analysis, and having developed several applications
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Leslie-Wong-H&repo=game_of_life&show_owner=true" />
 </a>
 <a href="https://github.com/Leslie-Wong-H/BoostPic">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Leslie-Wong-H&repo=ImageSearchGo&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Leslie-Wong-H&repo=BoostPic&show_owner=true" />
 </a>
 
 <a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
