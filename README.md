@@ -6,11 +6,14 @@
 
 > An incubating professional frontend engineer with AI techniques. Proclivity for JavaScript, Python and Opensource.
 
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![](https://img.shields.io/badge/-JavaScript-F3CF01?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS3-339933?style=flat-square&logo=CSS3&labelColor=339933)
 ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
+![](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![](https://img.shields.io/badge/-Python-e5cd0c?style=flat-square&logo=Python&logoColor=000)
+![](https://img.shields.io/badge/-Python-007acc?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-PyCharm-339933?style=flat-square&logo=PyCharm&logoColor=fff)
+![](https://img.shields.io/badge/-Jupyter-007ACC?style=flat-square&logo=Jupyter&logoColor=orange)
 
 ---
 
