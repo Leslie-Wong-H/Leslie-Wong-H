@@ -17,7 +17,11 @@
 
 ---
 
-Experienced with Python data analysis, and having developed several applications using JavaScript and Python, covering website, chrome extension and wechat mini program.
+Current workflow: Vue, Git and Node.
+
+Having developed several indie applications using JavaScript and Python, covering website, chrome extension and wechat mini program.
+
+And experienced with Python data analysis.
 
 ---
 
