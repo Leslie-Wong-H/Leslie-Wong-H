@@ -33,6 +33,8 @@ And experienced with Python data analysis.
 </a>
 
 
+<a href="#"><img align="center" src="https://via.placeholder.com/900x1.png/fff/fff"></a>
+
 ## Get in touch
 
 [![](https://img.shields.io/badge/-@LeslieWongH1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/LeslieWongH1)
