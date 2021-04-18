@@ -32,7 +32,7 @@ And experienced with Python data analysis.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Leslie-Wong-H&repo=BoostPic&show_owner=true" />
 </a>
 
-<a href="#"><img align="center" src="https://via.placeholder.com/900x1.png/fff/fff"></a>
+<a href="#"><img align="center" src="https://via.placeholder.com/800x1.png/fff/fff"></a>
 
 ## Get in touch
 
