@@ -4,7 +4,7 @@
 
 # Leslie Wong
 
-> An incubating professional frontend engineer with AI techniques. Proclivity for JavaScript, Python and Opensource.
+> An incubating professional frontend engineer with AI techniques. Proclivity for JavaScript, Python, and Opensource.
 
 ![](https://img.shields.io/badge/-JavaScript-F3CF01?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS3-254BDD?style=flat-square&logo=CSS3&labelColor=254BDD)
@@ -17,19 +17,20 @@
 
 ---
 
-Current daily workflow: Vue, Git and Node.
+Current daily workflow: Vue, Git, and Node.
 
-Having developed several indie applications using JavaScript and Python, covering website, chrome extension and wechat mini program.
+Having developed several indie applications using JavaScript and Python, covering website, chrome extension, and wechat mini program.
 
 And experienced with Python data analysis.
 
 ---
 
 <a href="https://github.com/Leslie-Wong-H/game_of_life">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Leslie-Wong-H&repo=game_of_life&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Leslie-Wong-H&repo=game_of_life&show_owner=true"/>
 </a>
+
 <a href="https://github.com/Leslie-Wong-H/BoostPic">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Leslie-Wong-H&repo=BoostPic&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Leslie-Wong-H&repo=BoostPic&show_owner=true"/>
 </a>
 
 <a href="#"><img align="center" src="https://via.placeholder.com/800x1.png/fff/fff"></a>
