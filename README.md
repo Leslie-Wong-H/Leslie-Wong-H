@@ -6,14 +6,15 @@
 
 > An incubating proficient software engineer with AI techniques. Proclivity for JavaScript, Python, and Opensource.
 
-![](https://img.shields.io/badge/-JavaScript-F3CF01?style=flat-square&logo=JavaScript&logoColor=fff)
-![](https://img.shields.io/badge/-CSS3-254BDD?style=flat-square&logo=CSS3&labelColor=254BDD)
-![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
-![](https://img.shields.io/badge/-Node.js-8BBF3D?style=flat-square&logo=Node.js&logoColor=fff)
-![](https://img.shields.io/badge/-VSCode-24A4EB?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3872A3?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-PyCharm-339933?style=flat-square&logo=PyCharm&logoColor=fff)
-![](https://img.shields.io/badge/-Jupyter-007ACC?style=flat-square&logo=Jupyter&logoColor=orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F3CF01?style=flat-square&logo=JavaScript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1A73E8?style=flat-square&logo=TypeScript&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-254BDD?style=flat-square&logo=CSS3&labelColor=254BDD)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-8BBF3D?style=flat-square&logo=Node.js&logoColor=fff)
+![VSCode](https://img.shields.io/badge/-VSCode-24A4EB?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3872A3?style=flat-square&logo=Python&logoColor=fff)
+![PyCharm](https://img.shields.io/badge/-PyCharm-339933?style=flat-square&logo=PyCharm&logoColor=fff)
+![Jupyter](https://img.shields.io/badge/-Jupyter-007ACC?style=flat-square&logo=Jupyter&logoColor=orange)
 
 ---
 
