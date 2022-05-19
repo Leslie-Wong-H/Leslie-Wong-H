@@ -34,7 +34,8 @@ And also experienced with Python.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=BoostPic&repo=BoostPic&show_owner=true"/>
 </a>
 
-<a href="#"><img align="center" src="https://via.placeholder.com/800x1.png/fff/fff"></a>
+<!-- <a href="#"><img align="center" src="https://via.placeholder.com/800x1.png/fff/fff"></a> -->
+---
 
 ## Get in touch
 
