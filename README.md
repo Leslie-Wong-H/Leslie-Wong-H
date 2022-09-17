@@ -20,7 +20,7 @@
 
 Current daily workflow: React, Vue, Git, and Node.
 
-Having developed several indie applications using JavaScript and Python, covering website, chrome extension, and wechat mini program.
+Having developed several indie applications using JavaScript and Python, covering website([*Playgameoflife.live*](https://playgameoflife.live), [*Boost Art Net*](https://boost-art.net)), Chrome extension([*BoostPic*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl)]), NPM library([*JSBI-Calculator*](https://www.npmjs.com/package/jsbi-calculator)), and Wechat mini program(*Western Aesthetics*).
 
 And also experienced with Python.
 
