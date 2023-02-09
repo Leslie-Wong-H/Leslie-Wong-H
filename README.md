@@ -18,20 +18,17 @@
 
 ---
 
-<a href="#"><img align="center" src="https://s2.loli.net/2022/05/19/5jPY3vSOTQFsxDU.png"></a>
-
 Current daily workflow: React, Vue, Git, and Node.
 
 Having developed several indie applications using JavaScript or TypeScript, covering website([*Playgameoflife.live*](https://playgameoflife.live), [*Boost Art Net*](https://boost-art.net)), Chrome extension([*BoostPic*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl)), NPM library([*JSBI-Calculator*](https://www.npmjs.com/package/jsbi-calculator)), and Wechat mini program(*Western Aesthetics*).
 
 And also experienced with Python(Web & ML).
 
-<a href="#"><img align="center" src="https://s2.loli.net/2022/05/19/5jPY3vSOTQFsxDU.png"></a>
-
 ---
 
 
 <a href="#"><img align="center" src="https://s2.loli.net/2022/05/19/5jPY3vSOTQFsxDU.png"></a>
+
 
 
 <a href="https://github.com/Leslie-Wong-H/game_of_life">
@@ -46,7 +43,9 @@ And also experienced with Python(Web & ML).
 
 ---
 
+
 <a href="#"><img align="center" src="https://s2.loli.net/2022/05/19/5jPY3vSOTQFsxDU.png"></a>
+
 
 <div>
 <img align="center" src="https://streak-stats.demolab.com/?user=Leslie-Wong-H&theme=graywhite&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff0000">
