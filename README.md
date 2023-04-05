@@ -20,7 +20,12 @@
 
 Current daily workflow: React/React Native, Vue, Git, and Node.
 
-Having developed a significant number of indie applications using JavaScript or TypeScript, covering Website([*Playgameoflife.live*](https://playgameoflife.live), [*Boost Art Net*](https://boost-art.net)), Chrome extension([*BoostPic*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl)), NPM library([*JSBI-Calculator*](https://www.npmjs.com/package/jsbi-calculator)), Mobile App([*Ultraman Shot Engine Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.ultraman_shot_engine), [*Boost Art Net Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.boost_art_net)), and Wechat mini program(*Western Aesthetics*).
+Having developed a significant number of ***indie*** applications using JavaScript or TypeScript, covering
+Website([*Playgameoflife.live*](https://playgameoflife.live), [*Boost Art Net*](https://boost-art.net)),
+Chrome extension([*BoostPic*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl)),
+NPM library([*JSBI-Calculator*](https://www.npmjs.com/package/jsbi-calculator)),
+Mobile App([*Ultraman Shot Engine Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.ultraman_shot_engine), [*Boost Art Net Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.boost_art_net)),
+and Wechat mini program(*Western Aesthetics*). By the way, I do perform excellently at formal NDA work projects.
 
 And also experienced with Python(Web & ML).
 
