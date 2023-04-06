@@ -25,7 +25,7 @@ Website([*Playgameoflife.live*](https://playgameoflife.live), [*Boost Art Net*](
 Chrome extension([*BoostPic*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl)),
 NPM library([*JSBI-Calculator*](https://www.npmjs.com/package/jsbi-calculator)),
 Mobile App([*Ultraman Shot Engine Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.ultraman_shot_engine), [*Boost Art Net Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.boost_art_net)),
-and Wechat mini program(*Western Aesthetics*). By the way, I do perform excellently at formal NDA work projects.
+and Wechat mini program(*Western Aesthetics*). By the way, I do perform excellently at formal NDA corporate projects.
 
 And also experienced with Python(Web & ML).
 
