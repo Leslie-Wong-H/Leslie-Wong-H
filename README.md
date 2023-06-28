@@ -29,6 +29,8 @@ and Wechat mini program(*Western Aesthetics*). Disclaimer: excellent performance
 
 And also experienced with Python(Web & ML). [_Coursera Deep Learning Specialization_](https://www.coursera.org/account/accomplishments/specialization/certificate/8LSKNGX4MUQ3) certificated.
 
+Become yourself; Keep learning!
+
 ---
 
 
