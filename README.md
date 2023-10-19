@@ -65,7 +65,7 @@ Become yourself; Keep growing!
 
 [![](https://img.shields.io/badge/-@79917148leslie-cecccd?style=flat-square&labelColor=cecccd&logo=Gmail&logoColor=e6584c)](mailto:79917148leslie@gmail.com)
 [![](https://img.shields.io/badge/-@LeslieWong-0a66c2?style=flat-square&labelColor=0a66c2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-wong-en/)
-[![](https://img.shields.io/badge/-@LeslieWongH1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/LeslieWongH1)
+[![](https://img.shields.io/badge/-@LeslieWongH1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=X&logoColor=white)](https://twitter.com/LeslieWongH1)
 [![](https://img.shields.io/badge/-https://lesliewong.cn-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://lesliewong.cn)
 
 ---
