@@ -34,7 +34,7 @@ Become yourself; Keep growing!
 ---
 
 
-<a href="#"><img align="center" src="https://s2.loli.net/2022/05/19/5jPY3vSOTQFsxDU.png"></a>
+<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
 
 
 
@@ -46,19 +46,20 @@ Become yourself; Keep growing!
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=BoostPic&repo=BoostPic&show_owner=true"/>
 </a>
 
-<a href="#"><img align="center" src="https://s2.loli.net/2022/05/19/5jPY3vSOTQFsxDU.png"></a>
+<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
 
 ---
 
 
-<a href="#"><img align="center" src="https://s2.loli.net/2022/05/19/5jPY3vSOTQFsxDU.png"></a>
+<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
 
 
 <div>
 <img align="center" src="https://streak-stats.demolab.com/?user=Leslie-Wong-H&theme=default&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff0000">
 </div>
 
-<a href="#"><img align="center" src="https://s2.loli.net/2022/05/19/5jPY3vSOTQFsxDU.png"></a>
+
+<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
 
 ---
 ## Get in touch
