@@ -4,7 +4,7 @@
 
 # Leslie Wong
 
-> An incubating proficient software engineer with AI techniques. Predilection for JavaScript, Python, and Open Source.
+> An incubating proficient software engineer (Web & Mobile & ML). Predilection for JavaScript, Python, and Open Source.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F3CF01?style=flat-square&logo=JavaScript&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1A73E8?style=flat-square&logo=TypeScript&logoColor=fff)
