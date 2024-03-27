@@ -20,18 +20,40 @@
 
 Current daily workflow: React/React Native, Vue, Git, and Node.
 
-Having developed a significant number of ***indie*** applications using JavaScript or TypeScript, covering
-Website([*Playgameoflife.live*](https://playgameoflife.live), [*Boost Art Net*](https://boost-art.net)),
-Chrome extension([*BoostPic*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl)),
-NPM library([*JSBI-Calculator*](https://www.npmjs.com/package/jsbi-calculator)),
-Mobile App([*Ultraman Shot Engine Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.ultraman_shot_engine), [*Boost Art Net Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.boost_art_net)),
-and Wechat mini program(*Western Aesthetics*).
+Having developed a significant number of ***indie*** applications using JavaScript or TypeScript spanning a variety of disciplines, covering
+
+**Applied mathematics:**
+
+🧩[*Playgameoflife.live*](https://playgameoflife.live), with online talks present at the 1st & 3rd JSXGraph Conference (Germany).
+
+🎲[*JSBI-Calculator*](https://www.npmjs.com/package/jsbi-calculator), based on GoogleChromeLabs' JSBI.
+
+**Digital Media Arts:**
+
+🧑‍🎨[*Boost Art Net*](https://boost-art.net), one of the winners of UNESCO TechCul Entrepreneur Prizes.
+
+👨‍🎨[*Boost Art Net iOS*](https://apps.apple.com/us/app/boost-art-net-art-destination/id6467807254?platform=iphone)
+
+👩‍🎨[*Boost Art Net Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.boost_art_net)
+
+🎨*Western Aesthetics*, a wechat mini program
+
+**Image Processing:**
+
+🖼️[*BoostPic*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl), Google Lens related.
+
+**Big Data:**
+
+⚡[*Ultraman Shot Engine Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.ultraman_shot_engine), domain-specific screenshot-to-video search engine for fun.
+
+⚡[*Anime Shot Engine Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.anime_shot_engine), another domain-specific screenshot-to-video search engine for fun.
 
 And also experienced with Python(Web & ML). [_Coursera Deep Learning Specialization_](https://www.coursera.org/account/accomplishments/specialization/certificate/8LSKNGX4MUQ3) certificated.
 
-Become yourself; Keep growing!
+**Become yourself; Keep growing!**
 
 ---
+
 
 
 <a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
