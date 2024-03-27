@@ -24,13 +24,13 @@ Having developed a significant number of ***indie*** applications using JavaScri
 
 **Applied mathematics:**
 
-🧩[*Playgameoflife.live*](https://playgameoflife.live), with online talks present at the 1st & 3rd JSXGraph Conference (Germany).
+🧩[*Playgameoflife.live (Website)*](https://playgameoflife.live), with online talks present at the 1st & 3rd JSXGraph Conference (Germany).
 
-🎲[*JSBI-Calculator*](https://www.npmjs.com/package/jsbi-calculator), based on GoogleChromeLabs' JSBI.
+🎲[*JSBI-Calculator (NPM Library)*](https://www.npmjs.com/package/jsbi-calculator), based on GoogleChromeLabs' JSBI.
 
 **Digital Media Arts:**
 
-🧑‍🎨[*Boost Art Net*](https://boost-art.net), one of the winners of UNESCO TechCul Entrepreneur Prizes.
+🧑‍🎨[*Boost Art Net (Website)*](https://boost-art.net), one of the winners of UNESCO TechCul Entrepreneur Prizes.
 
 👨‍🎨[*Boost Art Net iOS*](https://apps.apple.com/us/app/boost-art-net-art-destination/id6467807254?platform=iphone)
 
@@ -40,7 +40,7 @@ Having developed a significant number of ***indie*** applications using JavaScri
 
 **Image Processing:**
 
-🖼️[*BoostPic*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl), Google Lens related.
+🖼️[*BoostPic (Chrome Extension)*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl), Google Lens related.
 
 **Big Data:**
 
