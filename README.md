@@ -24,7 +24,7 @@ Having developed a significant number of ***indie*** applications using JavaScri
 
 **Applied mathematics:**
 
-🧩[*Playgameoflife.live (Website)*](https://playgameoflife.live), with online talks present at the 1st & 3rd JSXGraph Conference (Germany).
+🧩[*Playgameoflife.live (Website)*](https://playgameoflife.live), with online talks presented at the 1st & 3rd JSXGraph Conference (Germany).
 
 🎲[*JSBI-Calculator (NPM Library)*](https://www.npmjs.com/package/jsbi-calculator), based on GoogleChromeLabs' JSBI.
 
