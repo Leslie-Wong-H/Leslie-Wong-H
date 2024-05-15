@@ -42,11 +42,9 @@ Having developed a significant number of ***indie*** applications using JavaScri
 
 🖼️[*BoostPic (Chrome Extension)*](https://chrome.google.com/webstore/detail/boostpic-search-google-im/pmpogggmiaehmjempogkkklfckignfgl), Google Lens related.
 
-**Big Data:**
+**Multimedia Information Retrieval:**
 
-⚡[*Ultraman Shot Engine Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.ultraman_shot_engine), domain-specific screenshot-to-video search engine for fun.
-
-⚡[*Anime Shot Engine Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.anime_shot_engine), another domain-specific screenshot-to-video search engine for fun.
+⚡[*Shotit: compute-efficient image-to-video search engine for the cloud*](https://arxiv.org/abs/2404.12169), arXiv:2404.12169 (2024), with which you can incubate a domain-specific screenshot-to-video search engine for fun.
 
 And also experienced with Python(Web & ML). [_Coursera Deep Learning Specialization_](https://www.coursera.org/account/accomplishments/specialization/certificate/8LSKNGX4MUQ3) certificated.
 
