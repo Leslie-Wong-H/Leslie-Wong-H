@@ -18,9 +18,9 @@
 
 ---
 
-Current daily workflow: React/React Native, Vue, Git, and Node.
+Daily workflow: React/React Native, Vue, Git, and Node etc.
 
-Having developed a significant number of ***indie*** applications using JavaScript or TypeScript spanning a variety of disciplines, covering
+Having developed a significant number of indie applications using JavaScript or TypeScript spanning a variety of disciplines, covering
 
 **Applied mathematics:**
 
@@ -44,7 +44,7 @@ Having developed a significant number of ***indie*** applications using JavaScri
 
 **Multimedia Information Retrieval:**
 
-⚡[*Shotit: compute-efficient image-to-video search engine for the cloud*](https://shotit.github.io/shotit-frontend/), [arXiv:2404.12169 (2024)](https://arxiv.org/abs/2404.12169), with which you can incubate a domain-specific screenshot-to-video search engine for fun or productivity.
+⚡[*Shotit: compute-efficient image-to-video search engine for the cloud*](https://shotit.github.io/shotit-frontend/), [arXiv:2404.12169 (2024)](https://arxiv.org/abs/2404.12169), with which you can incubate a domain-specific screenshot-to-video search engine for entertainment or productivity purposes.
 
 And also experienced with Python(Web & ML). [_Coursera Deep Learning Specialization_](https://www.coursera.org/account/accomplishments/specialization/certificate/8LSKNGX4MUQ3) certificated.
 
@@ -54,7 +54,7 @@ And also experienced with Python(Web & ML). [_Coursera Deep Learning Specializat
 
 
 
-<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
+<a href="#"><img align="center" src="https://github.com/user-attachments/assets/55b39ece-a719-4a7a-a751-6d3021561b98"></a> 
 
 
 
@@ -66,12 +66,12 @@ And also experienced with Python(Web & ML). [_Coursera Deep Learning Specializat
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=BoostPic&repo=BoostPic&show_owner=true"/>
 </a>
 
-<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
+<a href="#"><img align="center" src="https://github.com/user-attachments/assets/55b39ece-a719-4a7a-a751-6d3021561b98"></a>
 
 ---
 
 
-<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
+<a href="#"><img align="center" src="https://github.com/user-attachments/assets/55b39ece-a719-4a7a-a751-6d3021561b98"></a>
 
 
 <div>
@@ -79,7 +79,7 @@ And also experienced with Python(Web & ML). [_Coursera Deep Learning Specializat
 </div>
 
 
-<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
+<a href="#"><img align="center" src="https://github.com/user-attachments/assets/55b39ece-a719-4a7a-a751-6d3021561b98"></a>
 
 ---
 ## Get in touch
