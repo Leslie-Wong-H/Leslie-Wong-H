@@ -32,10 +32,6 @@ Having developed a significant number of indie applications using JavaScript or 
 
 🧑‍🎨[*Boost Art Net (Website)*](https://boost-art.net), one of the winners of UNESCO TechCul Entrepreneur Prizes.
 
-👨‍🎨[*Boost Art Net iOS*](https://apps.apple.com/us/app/boost-art-net-art-destination/id6467807254?platform=iphone)
-
-👩‍🎨[*Boost Art Net Android*](https://play.google.com/store/apps/details?id=com.polarbeaver.boost_art_net)
-
 🎨*Western Aesthetics*, a wechat mini program
 
 **Image Processing:**
@@ -87,6 +83,5 @@ And also experienced with Python(Web & ML). [_Coursera Deep Learning Specializat
 [![](https://img.shields.io/badge/-@79917148leslie-cecccd?style=flat-square&labelColor=cecccd&logo=Gmail&logoColor=e6584c)](mailto:79917148leslie@gmail.com)
 [![](https://img.shields.io/badge/-@LeslieWong-0a66c2?style=flat-square&labelColor=0a66c2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-wong-en/)
 [![](https://img.shields.io/badge/-@LeslieWongH1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=X&logoColor=white)](https://twitter.com/LeslieWongH1)
-[![](https://img.shields.io/badge/-https://lesliewong.cn-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://lesliewong.cn)
 
 ---
