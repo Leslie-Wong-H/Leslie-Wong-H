@@ -16,6 +16,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-339933?style=flat-square&logo=PyCharm&logoColor=fff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-007ACC?style=flat-square&logo=Jupyter&logoColor=orange)
 ![Docker](https://img.shields.io/badge/-Docker-F3CF01?style=flat-square&logo=Docker&logoColor=24A4EB)
+![Milvus](https://img.shields.io/badge/-Milvus-1A73E8?style=flat-square&logo=Milvus&logoColor=24A4EB)
 
 ---
 
