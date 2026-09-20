@@ -1,8 +1,8 @@
-<div>
-<img align="right" src="./profile/stats.svg">
-</div>
-
 # Leslie Wong
+
+<div>
+<img align="right" src="./profile/SkatingAvatar.gif" width="400">
+</div>
 
 > An incubating proficient software engineer (Web & Mobile & ML). Predilection for JavaScript, Python, and Open Source.
 
@@ -73,7 +73,7 @@ And also experienced with Python(Web & ML). [_Coursera Deep Learning Specializat
 
 ## Get in touch
 
-[![](https://img.shields.io/badge/-@79917148leslie-cecccd?style=flat-square&labelColor=cecccd&logo=Gmail&logoColor=e6584c)](mailto:79917148leslie@gmail.com)
+[![](https://img.shields.io/badge/-@leslie79917-cecccd?style=flat-square&labelColor=cecccd&logo=Gmail&logoColor=e6584c)](mailto:leslie79917@gmail.com)
 [![](https://img.shields.io/badge/-@LeslieWong-0a66c2?style=flat-square&labelColor=0a66c2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leslie-wong-en/)
 [![](https://img.shields.io/badge/-@LeslieWongH1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=X&logoColor=white)](https://twitter.com/LeslieWongH1)
 
